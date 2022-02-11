@@ -1,1 +1,1 @@
-[![GitHub issues](https://img.shields.io/github/issues/UppalaGoutham/M1_ATM-Transaction-Display_APP?style=for-the-badge)](https://github.com/UppalaGoutham/M1_ATM-Transaction-Display_APP/issues)     [![C/C++ CI](https://github.com/UppalaGoutham/M1_ATM-Transaction-Display_APP/actions/workflows/c_build.yml/badge.svg)](https://github.com/UppalaGoutham/M1_ATM-Transaction-Display_APP/actions/workflows/c_build.yml)
+
